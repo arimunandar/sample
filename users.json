@@ -1,49 +1,53 @@
 {
-	"users": [
-		{
-			"username": "_arimunandar_",
-			"fullname": "Ari Munandar",
-			"email": "arimunandar.dev@gmail.com",
-			"gender": "male",
-			"age": 27,
-			"profile_pic": "https://raw.githubusercontent.com/arimunandar/sample/master/photo_profile/arimunandar.jpg",
-			"quote": "But man is not made for defeat. A man can be destroyed but not defeated.", 
-			"followers": 152,
-			"following": 450,
-			"photos": [
-				"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_3/1.jpeg",
-				"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_3/2.jpeg",
-				"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_3/3.jpeg",
-				"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_3/4.jpeg",
-				"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_3/5.jpeg",
-			],
-			"social_media": {
-				"github": "https:://github.com/arimunandar",
-				"youtube": "https://www.youtube.com/channel/UC7jr8DR06tcVR0QKKl6cSNA",
-				"instagram": "https://www.instagram.com/_arimunandar_/"
+	"status": 200,
+	"message": "Success get users data",
+	"data": {
+		"users": [
+			{
+				"username": "_arimunandar_",
+				"fullname": "Ari Munandar",
+				"email": "arimunandar.dev@gmail.com",
+				"gender": "male",
+				"age": 27,
+				"profile_pic": "https://raw.githubusercontent.com/arimunandar/sample/master/photo_profile/arimunandar.jpg",
+				"quote": "But man is not made for defeat. A man can be destroyed but not defeated.", 
+				"followers": 152,
+				"following": 450,
+				"photos": [
+					"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_3/1.jpeg",
+					"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_3/2.jpeg",
+					"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_3/3.jpeg",
+					"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_3/4.jpeg",
+					"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_3/5.jpeg",
+				],
+				"social_media": {
+					"github": "https:://github.com/arimunandar",
+					"youtube": "https://www.youtube.com/channel/UC7jr8DR06tcVR0QKKl6cSNA",
+					"instagram": "https://www.instagram.com/_arimunandar_/"
+				}
+			}, {
+				"username": "cristiano",
+				"fullname": "Cristiano Ronaldo",
+				"email": "cristiano@gmail.com",
+				"gender": "male",
+				"age": 35,
+				"profile_pic": "https://raw.githubusercontent.com/arimunandar/sample/master/photo_profile/ronaldo.jpg",
+				"quote": "Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.", 
+				"followers": 1,
+				"following": 13423450,
+				"photos": [
+					"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_2/1.jpeg",
+					"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_2/2.jpeg",
+					"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_2/3.jpeg",
+					"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_2/4.jpeg",
+					"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_2/5.jpeg",
+				],
+				"social_media": {
+					"github": "https:://github.com/arimunandar",
+					"youtube": "https://www.youtube.com/channel/UC7jr8DR06tcVR0QKKl6cSNA",
+					"instagram": "https://www.instagram.com/cristiano/"
+				}
 			}
-		}, {
-			"username": "cristiano",
-			"fullname": "Cristiano Ronaldo",
-			"email": "cristiano@gmail.com",
-			"gender": "male",
-			"age": 35,
-			"profile_pic": "https://raw.githubusercontent.com/arimunandar/sample/master/photo_profile/ronaldo.jpg",
-			"quote": "Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.", 
-			"followers": 1,
-			"following": 13423450,
-			"photos": [
-				"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_2/1.jpeg",
-				"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_2/2.jpeg",
-				"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_2/3.jpeg",
-				"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_2/4.jpeg",
-				"https://raw.githubusercontent.com/arimunandar/sample/master/gallery_2/5.jpeg",
-			],
-			"social_media": {
-				"github": "https:://github.com/arimunandar",
-				"youtube": "https://www.youtube.com/channel/UC7jr8DR06tcVR0QKKl6cSNA",
-				"instagram": "https://www.instagram.com/cristiano/"
-			}
-		}
-	]
+		]
+	}
 }
