@@ -1,0 +1,143 @@
+{
+    "code": 200,
+    "status": true,
+    "message": "Success get detail register",
+    "data": {
+        "unit_id": "RW05H",
+        "tower_name": "Redwood - TPV",
+        "pic": "AD --> Chief",
+        "unit_type": "2BR",
+        "unit_status": [
+            {
+                "id": "OO",
+                "text": "Owner occupied",
+                "selected": false
+            },
+            {
+                "id": "OR",
+                "text": "Owner occupied for rent",
+                "selected": false
+            },
+            {
+                "id": "OS",
+                "text": "Owner occupied for sale",
+                "selected": false
+            },
+            {
+                "id": "R",
+                "text": "Rented",
+                "selected": false
+            },
+            {
+                "id": "RO",
+                "text": "Rented by owner",
+                "selected": false
+            },
+            {
+                "id": "RS",
+                "text": "Rented for sale",
+                "selected": false
+            },
+            {
+                "id": "V",
+                "text": "Vacant",
+                "selected": true
+            },
+            {
+                "id": "VR",
+                "text": "Vacant for rent",
+                "selected": false
+            },
+            {
+                "id": "VS",
+                "text": "Vacant for sale",
+                "selected": false
+            },
+            {
+                "id": "VB",
+                "text": "Vacant for sale and rent",
+                "selected": false
+            },
+            {
+                "id": "TO",
+                "text": "Vacant to be occupied",
+                "selected": false
+            },
+            {
+                "id": "WH",
+                "text": "Weekend Home",
+                "selected": false
+            }
+        ],
+        "unit_condition": [
+            {
+                "id": "FULLY FURNISHED",
+                "text": "Fully Furnished",
+                "selected": false
+            },
+            {
+                "id": "FURNISHED",
+                "text": "Furnished",
+                "selected": true
+            },
+            {
+                "id": "SEMI FURNISHED",
+                "text": "Semi Furnished",
+                "selected": false
+            },
+            {
+                "id": "UNFURNISHED",
+                "text": "Unfurnished",
+                "selected": false
+            }
+        ],
+        "unit_key": [
+            {
+                "id": "OWORTE",
+                "text": "Owner/Tenant",
+                "selected": false
+            },
+            {
+                "id": "TPP",
+                "text": "TPP",
+                "selected": true
+            },
+            {
+                "id": "TRO",
+                "text": "TRO",
+                "selected": false
+            }
+        ],
+        "key_detail": [
+            {
+                "id": "accard",
+                "text": "Access Card",
+                "checked": true
+            },
+            {
+                "id": "acled",
+                "text": "AC Ledge",
+                "checked": false
+            },
+            {
+                "id": "bdoor",
+                "text": "Back Door",
+                "checked": true
+            },
+            {
+                "id": "mdoor",
+                "text": "Main Door",
+                "checked": true
+            }
+        ],
+        "asking_price": {
+            "unit_asking_id": 0,
+            "unit_asking_date": "02-05-2014",
+            "reff_id": "212",
+            "status": 1,
+            "unit_asking_price_sale": "0",
+            "unit_asking_price_lease": "3500",
+            "can_new": true
+        }
+    }
+}
